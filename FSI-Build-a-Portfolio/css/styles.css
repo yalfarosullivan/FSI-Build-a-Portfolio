@@ -1,0 +1,20 @@
+ 
+Body{
+    background-color:grey;
+    opacity:0.75;
+    font-family: 'Times New Roman', Times, serif ;
+}
+p{
+    color:black;
+    font-family: verdana;
+    }
+h1{
+    color:purple;
+}
+img{
+    border-style: dashed;
+    border-color: red;
+}
+li{
+    cursor: pointer;
+}
